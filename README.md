@@ -10,7 +10,11 @@ This project demonstrates full-stack analog hardware design from theoretical cal
 ## Working Demonstration
 Watch the fully analog analyzer in action below:
 
-<video src="./Media/Demo.mp4" controls="controls" width="100%"></video>
+
+
+https://github.com/user-attachments/assets/5d2a667e-e02e-4562-982c-1e00bb6419e8
+
+
 
 
 ---
