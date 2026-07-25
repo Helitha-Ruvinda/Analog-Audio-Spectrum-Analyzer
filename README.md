@@ -28,18 +28,6 @@ The circuit avoids digital processing and relies entirely on precision analog co
 
 ---
 
-## Repository Structure
-
-| Folder / File | Description |
-| :--- | :--- |
-| `Media/` | Contains high-quality project images, including FrontView2.1. |
-| `prototype testing/` | Contains hardware demonstration videos and real-world oscilloscope trace results. |
-| `spectrum_analyzer.pdf` | Comprehensive, professionally typeset project documentation and derivations. |
-| `spectrum_analyzer.tex` | LaTeX source code used to generate the final documentation. |
-| `Note1.pdf` | Original handwritten design notes and raw mathematical calculations. |
-
----
-
 ## Contribution
 Team ElectroSquad
 Department of Electronic and Telecommunication Engineering (ENTC)  
