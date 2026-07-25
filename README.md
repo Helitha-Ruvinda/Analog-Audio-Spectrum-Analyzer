@@ -10,8 +10,8 @@ This project demonstrates full-stack analog hardware design from theoretical cal
 ## Working Demonstration
 Watch the fully analog analyzer in action below:
 
-<video src="./prototype testing/Demo.mp4" controls="controls" width="100%"></video>
-*(Note: If you placed the video inside the Media folder instead, change the path above to `./Media/Demo.mp4`)*
+<video src="./Media/Demo.mp4" controls="controls" width="100%"></video>
+
 
 ---
 
