@@ -1,7 +1,6 @@
 # 10-Band Analog Audio Spectrum Analyzer
 
 ![Project Front View](./Media/FrontView2.1.png)
-*(Note: If your image is a .jpg, update the extension from .png to .jpg in the line above)*
 
 ## Overview
 This repository contains the complete hardware design, schematics, and testing documentation for a fully analog 10-band audio spectrum analyzer. The system processes incoming audio signals, isolates specific frequency bands, and visually maps the amplitude of each band using LED bar graphs. 
